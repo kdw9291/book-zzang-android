@@ -1,0 +1,12 @@
+.gradle/
+.gradle-user-home/
+.android/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+*.jks
+*.keystore
+app/release/
+*.apk

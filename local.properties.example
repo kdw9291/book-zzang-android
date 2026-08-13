@@ -1,0 +1,5 @@
+# Do not commit local.properties. Android Studio generates sdk.dir.
+sdk.dir=C\:\\Users\\<you>\\AppData\\Local\\Android\\Sdk
+BOOKZZANG_API_BASE_URL=https://bookzzang.duckdns.org/
+SUPABASE_URL=https://<project-ref>.supabase.co
+SUPABASE_ANON_KEY=
